@@ -10,6 +10,7 @@ TO DO:
 - bootstrap a better dashboard so maps.php doesnt look so awful
 - make Ringer easier to set up
 - better documentation :p
+- link the bois as authors
 
 The Bois can be found here:
 https://github.com/Timborin0
